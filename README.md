@@ -48,3 +48,6 @@ $ flask run
 ```
 
 ## Screenshots
+#### This shows the first part of the dashboard which contains the Products 
+
+![Project Screenshot](https://i.imgur.com/MIirapE.png)
