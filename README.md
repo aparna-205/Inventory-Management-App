@@ -16,7 +16,8 @@
 First, you need to clone this repo:
 
 ```bash
-$ git clone https://github.com/inGOElectric/Inventory-Management
+$ git clone https://github.com/aparna-205/Inventory-Management-App
+
 ```
 Then change into the `flask-inventory-app` folder:
 ```bash
