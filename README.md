@@ -48,6 +48,13 @@ $ flask run
 ```
 
 ## Screenshots
-#### This shows the first part of the dashboard which contains the Products 
+#### This shows the first part of the dashboard for adding Products in to it
 
 ![Project Screenshot](https://i.imgur.com/MIirapE.png)
+#### This shows the Dashboard for adding Vendors in to it
+
+![Project Screenshot](https://i.imgur.com/0zswrFW.jpg)
+#### This shows the Dashboard for adding locations
+
+![Project Screenshot](https://i.imgur.com/CVmws9c.jpg)
+
