@@ -49,12 +49,15 @@ $ flask run
 
 ## Screenshots
 #### This shows the first part of the dashboard for adding Products in to it
-
 ![Project Screenshot](https://i.imgur.com/MIirapE.png)
 #### This shows the Dashboard for adding Vendors in to it
-
 ![Project Screenshot](https://i.imgur.com/0zswrFW.jpg)
 #### This shows the Dashboard for adding locations
-
 ![Project Screenshot](https://i.imgur.com/CVmws9c.jpg)
+#### This shows the Dashboard for adding the person who is making changes to the dashboard
+![Project Screenshot](https://i.imgur.com/YFafEVW.jpg)
+#### summary of the dashboard in which warehouse the products (or) meterials is available
+![Project Screenshot](https://i.imgur.com/X4bwBg9.jpg)
+#### Main Dashboard page
+![Project Screenshot](https://i.imgur.com/Ad7tJuM.jpg)
 
